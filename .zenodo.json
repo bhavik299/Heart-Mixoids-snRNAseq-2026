@@ -1,0 +1,26 @@
+{
+  "title": "Code repository for: Human cardiac organoids innervated by autonomic neurons using a mixoid approach model myocardial infarction under hypoxia",
+  "upload_type": "software",
+  "description": "Single-nucleus RNA-seq quality control, Harmony integration, pseudotime trajectory inference, and reference atlas benchmarking scripts for human autonomic neuron-innervated cardiac mixoids (Cell Stem Cell, 2026).",
+  "creators": [
+    {
+      "name": "Dalal, Bhavik Ashok",
+      "affiliation": "Center for Molecular Medicine, University of Georgia"
+    },
+    {
+      "name": "Zeltner, Nadja",
+      "affiliation": "Center for Molecular Medicine, University of Georgia"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "snRNA-seq",
+    "cardiac organoids",
+    "autonomic nervous system",
+    "sympathetic neurons",
+    "parasympathetic neurons",
+    "Scanpy",
+    "Cell Stem Cell"
+  ]
+}
