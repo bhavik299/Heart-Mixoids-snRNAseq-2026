@@ -1,6 +1,6 @@
 # Human cardiac organoids innervated by autonomic neurons using a mixoid approach model myocardial infarction under hypoxia
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1426878596.svg)](https://doi.org/10.5281/zenodo.23497090)
 
 This repository contains the complete, reproducible Python bioinformatics pipeline for the single-nucleus RNA sequencing (snRNA-seq) analysis reported in **Zeltner et al. (*Cell Stem Cell*, 2026)**.
 
